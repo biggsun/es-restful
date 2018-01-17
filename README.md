@@ -1,4 +1,6 @@
 # es-restful
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lleohao/es-restful.svg)](https://greenkeeper.io/)
 > easy & simple nodejs restful server framework
 
 [![Build Status](https://travis-ci.org/lleohao/es-restful.svg?branch=master)](https://travis-ci.org/lleohao/es-restful) [![Coverage Status](https://coveralls.io/repos/github/lleohao/es-restful/badge.svg?branch=master)](https://coveralls.io/github/lleohao/es-restful?branch=master)
